@@ -12844,7 +12844,7 @@ i.Ql(new F.Gl(null))
 i.E8()
 return P.a_(null,r)}})
 return P.a0($async$Qu,r)}},O={
-awo:function(){var s="http://8.129.64.104:8048",r=$.asc(),q=r.a
+awo:function(){var s="https://pre.infimake.com/kshxk",r=$.asc(),q=r.a
 if(q!=null){q=q.fs$
 if(q.cx!==s)q.cx=s}return r},
 art:function(a){var s,r=null,q=a.b
@@ -74791,7 +74791,7 @@ p.ll(2,"error",X.akz(),H.a9("ls*"))
 return p})
 q($,"aFf","asu",function(){return D.aif("/housessalescontrol.Tags/add",new S.a5s(),new S.a5t())})
 q($,"aFg","asv",function(){return D.aif("/housessalescontrol.Tags/counts",new S.a5u(),new S.a5v())})
-q($,"aEJ","asc",function(){var p=new O.Y_(H.an1(t.X,H.a9("pj*"))),o=B.auV("http://8.129.64.104:8048",15e3,p.Dw()),n=new L.FG(H.a([],H.a9("u<er*>")),new L.wH(),new L.wH(),new L.wH()),m=new U.Tv(null,n,null,new Q.Tj(),!1)
+q($,"aEJ","asc",function(){var p=new O.Y_(H.an1(t.X,H.a9("pj*"))),o=B.auV("https://pre.infimake.com/kshxk",15e3,p.Dw()),n=new L.FG(H.a([],H.a9("u<er*>")),new L.wH(),new L.wH(),new L.wH()),m=new U.Tv(null,n,null,new Q.Tj(),!1)
 m.fs$=o
 m.Mz$=new B.RH(H.a([],H.a9("u<hT*>")))
 p.a=m
